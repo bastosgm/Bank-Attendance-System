@@ -1,0 +1,99 @@
+/* reset */
+* {
+    padding: 0;
+    margin: 0;
+    /* border: none; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* tags */
+div {
+    text-align: center;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    background-image: linear-gradient(to bottom, rgba(247, 1, 1, 0.801), rgb(163, 0, 163));
+    background-repeat: no-repeat;
+}
+
+header {
+    color: #fff;
+    padding: 10px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 15px;
+}
+
+footer {
+    position: absolute;
+    font-size: 10px;
+    bottom: 0;
+    width: 100%;
+    color: #fff;
+    text-align: center;
+}
+
+/* classes */
+.password {
+    color: rgb(66, 66, 66);
+    font-size: 5em;
+    margin: 10px;
+    margin-bottom: 0;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.counter {
+    color: rgb(66, 66, 66);
+    font-size: 2em;
+    margin: 10px;
+    margin-top: 0;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+
+.left-card {
+    color: #fff;
+    background-color: rgb(66, 66, 66, 0.8);
+    padding: 2em;
+    width: 50%;
+    margin: 10px
+}
+
+.right-card {
+    color: #fff;
+    background-color: rgb(66, 66, 66, 0.8);
+    padding: 2em;
+    width: 50%;
+    margin: 10px
+}
+
+.align {
+    display: flex;
+    align-items: center;
+}
+
+.buttons {
+    font-size: 20px;
+    background-color: rgb(247, 1, 1);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 2px;
+}
+
+.buttons:hover {
+    background-color: rgb(230, 61, 0);
+}
