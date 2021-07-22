@@ -9,6 +9,9 @@
 /* tags */
 div {
     text-align: center;
+    padding: 20px;
+    color: #fff;
+    background-color: rgb(66, 66, 66, 0.8);
 }
 
 html, body {
@@ -41,6 +44,11 @@ footer {
 }
 
 /* classes */
+.display {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
 .password {
     color: rgb(66, 66, 66);
     font-size: 5em;
@@ -63,25 +71,12 @@ footer {
     background-color: rgb(255, 255, 255);
 }
 
-.left-card {
-    color: #fff;
-    background-color: rgb(66, 66, 66, 0.8);
-    padding: 2em;
-    width: 50%;
-    margin: 10px
-}
-
-.right-card {
-    color: #fff;
-    background-color: rgb(66, 66, 66, 0.8);
-    padding: 2em;
-    width: 50%;
-    margin: 10px
-}
-
-.align {
-    display: flex;
-    align-items: center;
+.grid {
+    max-width: 940px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+    margin: 0 auto;
 }
 
 .buttons {
