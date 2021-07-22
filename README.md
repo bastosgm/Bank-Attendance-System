@@ -6,7 +6,7 @@
 <hr>
 
 
-<img src="img.png">
+<img src="./img/img.png">
 
 </h1>
 
