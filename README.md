@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <br>
-    BANK ATTENDANCE SYSTEM
+    UTNG ATTENDANCE SYSTEM
 <hr>
 
 
@@ -10,7 +10,7 @@
 
 </h1>
 
-<p align="center">Static page that simulates a bank queue</p>
+<p align="center">Webapp that handles a bank queue</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
