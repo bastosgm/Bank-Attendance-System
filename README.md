@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <br>
-    UTNG ATTENDANCE SYSTEM
+    UTNG QUEUE
 <hr>
 
 
@@ -10,7 +10,7 @@
 
 </h1>
 
-<p align="center">Webapp that handles a bank queue</p>
+<p align="center">A queue system which aims to be simple and effective</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
